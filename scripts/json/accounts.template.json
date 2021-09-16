@@ -1,0 +1,9 @@
+{
+  "accounts": [
+    "privateKeyForTheMainAccount",
+    "privateKey",
+    "privateKey",
+    "privateKey",
+    "privateKey"
+  ]
+}
